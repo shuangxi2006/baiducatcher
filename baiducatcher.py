@@ -3,7 +3,7 @@
 """
 Created on Mon Nov 26 08:48:32 2018
 catcher 捕捉Baidu新闻关注词
-@author: Administrator
+@author: shuangxi2006
 """
 import sys
 import requests
