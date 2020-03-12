@@ -65,7 +65,7 @@ piglow==1.2.4
 pigpio==1.38
 Pillow==4.0.0
 pip3==0.2
-psutil==5.4.7
+psutil==5.6.6
 pyasn1==0.4.4
 pycparser==2.19
 pycrypto==2.6.1
