@@ -115,7 +115,7 @@ tornado==5.1.1
 touchphat==0.0.1
 twython==3.7.0
 typed-ast==0.6.3
-urllib3==1.23
+urllib3==1.24.2
 wechat-sender==0.1.4
 Werkzeug==0.14.1
 wget==3.2
