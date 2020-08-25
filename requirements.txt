@@ -117,7 +117,7 @@ twython==3.7.0
 typed-ast==0.6.3
 urllib3==1.23
 wechat-sender==0.1.4
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 wget==3.2
 wrapt==1.9.0
 wxpy==0.3.9.8
