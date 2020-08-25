@@ -52,7 +52,7 @@ mote==0.0.4
 motephat==0.0.2
 mypy==0.470
 networkx==2.2
-nltk==3.3
+nltk==3.4.5
 numpy==1.15.3
 oauthlib==2.1.0
 parso==0.3.1
